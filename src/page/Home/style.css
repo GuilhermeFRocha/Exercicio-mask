@@ -1,0 +1,54 @@
+.title {
+  display: flex;
+  font-size: 1.5rem;
+  color: #f8efff;
+  font-weight: 600;
+  text-transform: uppercase;
+  justify-content: center;
+  padding: 1rem 0;
+  background-color: #18171f;
+}
+.thead.css-0,
+tr.css-0 {
+  border: 2px solid black !important;
+}
+.css-1iswka8 tr:nth-of-type(odd) td {
+  background: #22212c !important;
+  color: white;
+  border: 2px solid black !important;
+}
+
+.input-table {
+  background: transparent;
+  color: white;
+  padding: 8px 16px;
+  background: #22212c;
+  width: -webkit-fill-available;
+  outline: none;
+}
+
+td.css-1m0xqxs {
+  background: #22212c !important;
+  color: white;
+  border: 2px solid black !important;
+}
+.chakra-table__container {
+  width: 100% !important;
+  background-color: #18171f;
+}
+.chakra-table {
+  width: 80% !important;
+  margin: 0 auto !important;
+}
+
+.name-client {
+  background-color: #22212c !important;
+  color: white !important;
+  border: 2px solid black !important;
+}
+
+.css-pe56mq {
+  font-size: 20px !important;
+  border: 2px solid black !important;
+  padding: 16px 16px !important;
+}
